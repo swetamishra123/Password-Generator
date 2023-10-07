@@ -1,1 +1,47 @@
-# Password-Generator
+# Password Generator
+
+A simple password generator web application built with HTML, CSS, and JavaScript.
+
+
+## Live Demo
+
+You can try out the live demo [here](https://password-generator-ivory-six.vercel.app/).
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Usage](#usage)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+The Password Generator is a web-based tool that allows users to generate strong and secure passwords with various options. Users can customize the password length and choose to include uppercase letters, lowercase letters, numbers, and symbols in their generated passwords.
+
+## Features
+
+- Customize password length.
+- Include or exclude uppercase letters, lowercase letters, numbers, and symbols.
+- Generate strong and secure passwords.
+- Copy generated passwords to the clipboard.
+
+## Usage
+
+1. Access the live demo [here](https://password-generator-ivory-six.vercel.app/).
+2. Customize your password generation options:
+   - Adjust the "Password Length" using the input field.
+   - Toggle checkboxes to include or exclude "Uppercase Letters," "Lowercase Letters," "Numbers," and "Symbols."
+3. Click the "Generate Password" button to create a password based on your preferences.
+4. The generated password will be displayed in the result container.
+5. You can click the clipboard icon to copy the generated password to your clipboard.
+
+## Installation
+
+If you want to run this project locally, you can follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/swetamishra123/Password-Generator.git
