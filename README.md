@@ -1,6 +1,6 @@
 # Password Generator
 
-A simple password generator web application built with HTML, CSS, and JavaScript.
+A simple password generator web application built with HTML, CSS, and Javascript.
 
 
 ## Live Demo
